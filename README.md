@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skill:
+![Flutter](https://img.shields.io/badge/Flutter-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
